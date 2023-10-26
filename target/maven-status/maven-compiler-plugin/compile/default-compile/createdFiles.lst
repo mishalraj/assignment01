@@ -1,0 +1,5 @@
+com/example/bitgo/CallApiToGetData.class
+com/example/bitgo/FetchController.class
+com/example/bitgo/Transactions.class
+com/example/bitgo/TxnsService.class
+com/example/bitgo/BitgoApplication.class
